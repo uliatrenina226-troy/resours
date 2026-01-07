@@ -1,1 +1,1 @@
-сайт на чистом css html и javascript
+сайт на чистом css html и javascript (учебный)
