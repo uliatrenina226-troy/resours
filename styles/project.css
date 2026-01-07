@@ -92,9 +92,9 @@ body {
 }
 
 .meet {
-    width: 550px;
-    height: 320px;
-    margin-left: 610px;
+    width: 560px;
+    height: 310px;
+    margin-left: 250px;
     margin-top: -90px;
 } 
 
@@ -119,9 +119,9 @@ body {
 .text-block {
     width: 570px;
     height: 370px;
-    margin-top: 164px;
+    padding-top: 164px;
     margin-left: 250px;
-    margin-bottom: 85px;
+    margin-bottom: 80px;
 }
 
 .header__title span {
@@ -196,9 +196,28 @@ body {
     max-width: 500px;
     height: 225px;
     display: flex;
+    gap: 35px;
     align-items: center;
     justify-content: start;
-    margin-left: ;
-    padding-left: ;
+    margin-left: 210px;
+    
 }
 
+.header__bottom-title {
+    font-size: 1.75rem;
+    color: #2bCA8B;
+    letter-spacing: 0;
+    line-height: 1.4;
+    max-width: 125px;
+}
+
+.rescure__list {
+
+}
+
+.rescure__list li a {
+    font-size: 0.875rem;
+    color: #252061;
+    line-height: 1.6;
+    letter-spacing: 0;
+}
